@@ -8,3 +8,5 @@ Skills: C/C++/JAVA/ JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArshBakshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arsh._._01/)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArshBakshi)](https://github.com/ryo-ma/github-profile-trophy)
+
