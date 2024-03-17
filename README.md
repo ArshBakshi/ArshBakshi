@@ -1,6 +1,8 @@
-### Hi there 👋, Arsh :)  
+### Hi there 👋, I'm Arsh :)  
 #### Computer Science Engineering Student
 Greetings! I'm Arsh, currently navigating the exciting world of computer science engineering as a student with a passion for problem-solving and a thirst for knowledge. 
+
+## Skills and Experience  
 
 Skills: C/C++/JAVA/ JS / HTML / CSS
 
